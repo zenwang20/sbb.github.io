@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://sbbzeng.dpdns.org</id>
+    <title>200元预算手搓标杆服务品质的物业人</title>
+    <updated>2025-06-01T10:17:35.308Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://sbbzeng.dpdns.org"/>
+    <link rel="self" href="http://sbbzeng.dpdns.org/atom.xml"/>
+    <subtitle>分享物业经验，共创美好生活。</subtitle>
+    <logo>http://sbbzeng.dpdns.org/images/avatar.png</logo>
+    <icon>http://sbbzeng.dpdns.org/favicon.ico</icon>
+    <rights>All rights reserved 2025, 200元预算手搓标杆服务品质的物业人</rights>
+</feed>
